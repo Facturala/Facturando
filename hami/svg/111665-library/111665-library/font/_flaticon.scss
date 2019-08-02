@@ -1,0 +1,239 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 22/06/2016 15:21
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-apple-on-book:before { content: "\f100"; }
+.flaticon-automotive-magazine:before { content: "\f101"; }
+.flaticon-big-audio-book:before { content: "\f102"; }
+.flaticon-big-book:before { content: "\f103"; }
+.flaticon-big-dictionary:before { content: "\f104"; }
+.flaticon-big-manual-book:before { content: "\f105"; }
+.flaticon-blank-open-book:before { content: "\f106"; }
+.flaticon-book-divider:before { content: "\f107"; }
+.flaticon-book-folder:before { content: "\f108"; }
+.flaticon-book-label-maker:before { content: "\f109"; }
+.flaticon-book-of-astronomy:before { content: "\f10a"; }
+.flaticon-book-open-backwards:before { content: "\f10b"; }
+.flaticon-book-return-box:before { content: "\f10c"; }
+.flaticon-book-search:before { content: "\f10d"; }
+.flaticon-book-with-cd:before { content: "\f10e"; }
+.flaticon-book-with-cursor:before { content: "\f10f"; }
+.flaticon-book-with-long-bookmark:before { content: "\f110"; }
+.flaticon-bookmark-with-star:before { content: "\f111"; }
+.flaticon-books-on-bookshelf:before { content: "\f112"; }
+.flaticon-books-stack:before { content: "\f113"; }
+.flaticon-bookshelf-with-books:before { content: "\f114"; }
+.flaticon-bottom-of-book:before { content: "\f115"; }
+.flaticon-calculus-book:before { content: "\f116"; }
+.flaticon-chemistry-book:before { content: "\f117"; }
+.flaticon-circular-table:before { content: "\f118"; }
+.flaticon-circulation-desk:before { content: "\f119"; }
+.flaticon-closed-book:before { content: "\f11a"; }
+.flaticon-closed-book-view:before { content: "\f11b"; }
+.flaticon-closed-book-with-bookmark:before { content: "\f11c"; }
+.flaticon-coil-bound-notebook:before { content: "\f11d"; }
+.flaticon-download-ebook:before { content: "\f11e"; }
+.flaticon-drawing-book:before { content: "\f11f"; }
+.flaticon-ebook-on-tablet:before { content: "\f120"; }
+.flaticon-ebook-with-folded-page:before { content: "\f121"; }
+.flaticon-electronic-library-on-tablet:before { content: "\f122"; }
+.flaticon-epub-file:before { content: "\f123"; }
+.flaticon-ereader-with-bookmark:before { content: "\f124"; }
+.flaticon-ereader-with-ebook:before { content: "\f125"; }
+.flaticon-favorite-book:before { content: "\f126"; }
+.flaticon-folded-newspaper:before { content: "\f127"; }
+.flaticon-graduation-book:before { content: "\f128"; }
+.flaticon-hard-cover-book:before { content: "\f129"; }
+.flaticon-holy-bible-book:before { content: "\f12a"; }
+.flaticon-horizontal-book:before { content: "\f12b"; }
+.flaticon-horizontal-thin-book:before { content: "\f12c"; }
+.flaticon-inclined-book:before { content: "\f12d"; }
+.flaticon-info-holder:before { content: "\f12e"; }
+.flaticon-inspiration-book:before { content: "\f12f"; }
+.flaticon-library-book:before { content: "\f130"; }
+.flaticon-library-book-1:before { content: "\f131"; }
+.flaticon-library-card:before { content: "\f132"; }
+.flaticon-library-chair:before { content: "\f133"; }
+.flaticon-library-database:before { content: "\f134"; }
+.flaticon-library-earth-globe:before { content: "\f135"; }
+.flaticon-library-lader:before { content: "\f136"; }
+.flaticon-library-lockers:before { content: "\f137"; }
+.flaticon-library-open-book:before { content: "\f138"; }
+.flaticon-library-search-engine:before { content: "\f139"; }
+.flaticon-library-table:before { content: "\f13a"; }
+.flaticon-library-table-1:before { content: "\f13b"; }
+.flaticon-magician-book:before { content: "\f13c"; }
+.flaticon-manual-book:before { content: "\f13d"; }
+.flaticon-maths-book:before { content: "\f13e"; }
+.flaticon-music-book:before { content: "\f13f"; }
+.flaticon-notebook-open:before { content: "\f140"; }
+.flaticon-notebook-with-bookmark:before { content: "\f141"; }
+.flaticon-old-library-building:before { content: "\f142"; }
+.flaticon-open-book-with-bookmark:before { content: "\f143"; }
+.flaticon-open-book-with-bookmark-1:before { content: "\f144"; }
+.flaticon-open-book-with-one-page-folded:before { content: "\f145"; }
+.flaticon-open-book-with-page-folded:before { content: "\f146"; }
+.flaticon-open-book-with-pages:before { content: "\f147"; }
+.flaticon-open-book-with-rings:before { content: "\f148"; }
+.flaticon-open-book-with-text-lines:before { content: "\f149"; }
+.flaticon-passport-book:before { content: "\f14a"; }
+.flaticon-pdf-book:before { content: "\f14b"; }
+.flaticon-pdf-book-1:before { content: "\f14c"; }
+.flaticon-photo-album:before { content: "\f14d"; }
+.flaticon-physics-book:before { content: "\f14e"; }
+.flaticon-pinholder-with-book:before { content: "\f14f"; }
+.flaticon-psychology-book:before { content: "\f150"; }
+.flaticon-reading-glasses:before { content: "\f151"; }
+.flaticon-return-cart:before { content: "\f152"; }
+.flaticon-romantic-novel:before { content: "\f153"; }
+.flaticon-school-book:before { content: "\f154"; }
+.flaticon-serialized-books:before { content: "\f155"; }
+.flaticon-silent-telephone:before { content: "\f156"; }
+.flaticon-sketchbook-with-pencil:before { content: "\f157"; }
+.flaticon-sketchbook-with-pencil-writing:before { content: "\f158"; }
+.flaticon-sport-magazine:before { content: "\f159"; }
+.flaticon-stack-of-books:before { content: "\f15a"; }
+.flaticon-stack-of-three-books:before { content: "\f15b"; }
+.flaticon-superheroes-comic-book:before { content: "\f15c"; }
+.flaticon-thick-book:before { content: "\f15d"; }
+.flaticon-thick-book-open:before { content: "\f15e"; }
+.flaticon-three-books:before { content: "\f15f"; }
+.flaticon-user-guide:before { content: "\f160"; }
+.flaticon-user-guide-book:before { content: "\f161"; }
+.flaticon-vertical-open-book:before { content: "\f162"; }
+.flaticon-writing-book-with-pen:before { content: "\f163"; }
+    
+    $font-Flaticon-apple-on-book: "\f100";
+    $font-Flaticon-automotive-magazine: "\f101";
+    $font-Flaticon-big-audio-book: "\f102";
+    $font-Flaticon-big-book: "\f103";
+    $font-Flaticon-big-dictionary: "\f104";
+    $font-Flaticon-big-manual-book: "\f105";
+    $font-Flaticon-blank-open-book: "\f106";
+    $font-Flaticon-book-divider: "\f107";
+    $font-Flaticon-book-folder: "\f108";
+    $font-Flaticon-book-label-maker: "\f109";
+    $font-Flaticon-book-of-astronomy: "\f10a";
+    $font-Flaticon-book-open-backwards: "\f10b";
+    $font-Flaticon-book-return-box: "\f10c";
+    $font-Flaticon-book-search: "\f10d";
+    $font-Flaticon-book-with-cd: "\f10e";
+    $font-Flaticon-book-with-cursor: "\f10f";
+    $font-Flaticon-book-with-long-bookmark: "\f110";
+    $font-Flaticon-bookmark-with-star: "\f111";
+    $font-Flaticon-books-on-bookshelf: "\f112";
+    $font-Flaticon-books-stack: "\f113";
+    $font-Flaticon-bookshelf-with-books: "\f114";
+    $font-Flaticon-bottom-of-book: "\f115";
+    $font-Flaticon-calculus-book: "\f116";
+    $font-Flaticon-chemistry-book: "\f117";
+    $font-Flaticon-circular-table: "\f118";
+    $font-Flaticon-circulation-desk: "\f119";
+    $font-Flaticon-closed-book: "\f11a";
+    $font-Flaticon-closed-book-view: "\f11b";
+    $font-Flaticon-closed-book-with-bookmark: "\f11c";
+    $font-Flaticon-coil-bound-notebook: "\f11d";
+    $font-Flaticon-download-ebook: "\f11e";
+    $font-Flaticon-drawing-book: "\f11f";
+    $font-Flaticon-ebook-on-tablet: "\f120";
+    $font-Flaticon-ebook-with-folded-page: "\f121";
+    $font-Flaticon-electronic-library-on-tablet: "\f122";
+    $font-Flaticon-epub-file: "\f123";
+    $font-Flaticon-ereader-with-bookmark: "\f124";
+    $font-Flaticon-ereader-with-ebook: "\f125";
+    $font-Flaticon-favorite-book: "\f126";
+    $font-Flaticon-folded-newspaper: "\f127";
+    $font-Flaticon-graduation-book: "\f128";
+    $font-Flaticon-hard-cover-book: "\f129";
+    $font-Flaticon-holy-bible-book: "\f12a";
+    $font-Flaticon-horizontal-book: "\f12b";
+    $font-Flaticon-horizontal-thin-book: "\f12c";
+    $font-Flaticon-inclined-book: "\f12d";
+    $font-Flaticon-info-holder: "\f12e";
+    $font-Flaticon-inspiration-book: "\f12f";
+    $font-Flaticon-library-book: "\f130";
+    $font-Flaticon-library-book-1: "\f131";
+    $font-Flaticon-library-card: "\f132";
+    $font-Flaticon-library-chair: "\f133";
+    $font-Flaticon-library-database: "\f134";
+    $font-Flaticon-library-earth-globe: "\f135";
+    $font-Flaticon-library-lader: "\f136";
+    $font-Flaticon-library-lockers: "\f137";
+    $font-Flaticon-library-open-book: "\f138";
+    $font-Flaticon-library-search-engine: "\f139";
+    $font-Flaticon-library-table: "\f13a";
+    $font-Flaticon-library-table-1: "\f13b";
+    $font-Flaticon-magician-book: "\f13c";
+    $font-Flaticon-manual-book: "\f13d";
+    $font-Flaticon-maths-book: "\f13e";
+    $font-Flaticon-music-book: "\f13f";
+    $font-Flaticon-notebook-open: "\f140";
+    $font-Flaticon-notebook-with-bookmark: "\f141";
+    $font-Flaticon-old-library-building: "\f142";
+    $font-Flaticon-open-book-with-bookmark: "\f143";
+    $font-Flaticon-open-book-with-bookmark-1: "\f144";
+    $font-Flaticon-open-book-with-one-page-folded: "\f145";
+    $font-Flaticon-open-book-with-page-folded: "\f146";
+    $font-Flaticon-open-book-with-pages: "\f147";
+    $font-Flaticon-open-book-with-rings: "\f148";
+    $font-Flaticon-open-book-with-text-lines: "\f149";
+    $font-Flaticon-passport-book: "\f14a";
+    $font-Flaticon-pdf-book: "\f14b";
+    $font-Flaticon-pdf-book-1: "\f14c";
+    $font-Flaticon-photo-album: "\f14d";
+    $font-Flaticon-physics-book: "\f14e";
+    $font-Flaticon-pinholder-with-book: "\f14f";
+    $font-Flaticon-psychology-book: "\f150";
+    $font-Flaticon-reading-glasses: "\f151";
+    $font-Flaticon-return-cart: "\f152";
+    $font-Flaticon-romantic-novel: "\f153";
+    $font-Flaticon-school-book: "\f154";
+    $font-Flaticon-serialized-books: "\f155";
+    $font-Flaticon-silent-telephone: "\f156";
+    $font-Flaticon-sketchbook-with-pencil: "\f157";
+    $font-Flaticon-sketchbook-with-pencil-writing: "\f158";
+    $font-Flaticon-sport-magazine: "\f159";
+    $font-Flaticon-stack-of-books: "\f15a";
+    $font-Flaticon-stack-of-three-books: "\f15b";
+    $font-Flaticon-superheroes-comic-book: "\f15c";
+    $font-Flaticon-thick-book: "\f15d";
+    $font-Flaticon-thick-book-open: "\f15e";
+    $font-Flaticon-three-books: "\f15f";
+    $font-Flaticon-user-guide: "\f160";
+    $font-Flaticon-user-guide-book: "\f161";
+    $font-Flaticon-vertical-open-book: "\f162";
+    $font-Flaticon-writing-book-with-pen: "\f163";
